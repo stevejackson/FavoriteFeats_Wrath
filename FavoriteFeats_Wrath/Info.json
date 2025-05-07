@@ -1,0 +1,10 @@
+{
+    "Id": "FavoriteFeats_Wrath",
+    "DisplayName": "Favorite Feats",
+    "Author": "stevejackson",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.27.10",
+    "Requirements": [],
+    "AssemblyName": "FavoriteFeats_Wrath.dll",
+    "EntryMethod": "FavoriteFeats_Wrath.Main.Load"
+}
