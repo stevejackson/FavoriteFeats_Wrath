@@ -30,4 +30,4 @@ If you don't want this, you can keep multiple save files for NPCs in different p
 
 - Github source code: https://github.com/stevejackson/FavoriteFeats_Wrath
 - Github mod download: https://github.com/stevejackson/FavoriteFeats_Wrath/releases
-- Nexus:
+- Nexus: https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/817
