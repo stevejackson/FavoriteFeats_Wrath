@@ -1,6 +1,9 @@
 # Summary
 
-This mod allows you to designate favorite feats per character in Pathfinder: Wrath of the Righteous.
+This mod allows you to designate favorite feats per character in Pathfinder: Wrath of the Righteous. 
+It's intended to help with remembering which feats you plan to take for characters to avoid re-evaluating all feats on each level up.
+
+![Demonstration screenshot](Screenshot1.jpg)
 
 # Installation
 
@@ -22,3 +25,9 @@ Now you'll see `(***)` in front of favorite feats.
 - This mod does not affect your save files. It's safe to install and uninstall during a playthrough.
 - Saves are by character name, so NPCs such as Lann will share their favorite feats across your different playthroughs. 
 If you don't want this, you can keep multiple save files for NPCs in different playthroughs by handling the save files yourself - just look in the mod folder for save files like `v1-Lann.json` and create backups as you like.
+
+# Links
+
+- Github source code: https://github.com/stevejackson/FavoriteFeats_Wrath
+- Github mod download: https://github.com/stevejackson/FavoriteFeats_Wrath/releases
+- Nexus:
